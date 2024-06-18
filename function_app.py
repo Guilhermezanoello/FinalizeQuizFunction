@@ -6,7 +6,7 @@ from datetime import datetime
 
 # Configurações para conectar ao Cosmos DB
 ENDPOINT = 'https://miniprojeto-edu-gui-joao-1.documents.azure.com:443/'
-
+KEY = '6Jf1yWhVGBCV3RVQLN1dW88SxWQguWT8pIHnPGUmKUTpo50KK5t6gtnSn7y2m1VUlatkkOurLR3GACDbwB8zHA=='
 DATABASE_ID = 'QuizGami'
 SCORES_CONTAINER_ID = 'Scores'
 
